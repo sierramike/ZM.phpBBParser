@@ -16,7 +16,7 @@ Download here : https://github.com/sierramike/ZM.phpBBParser/releases/download/1
 * Upon closing, settings are saved into "Settings.xml" file.
 
 # User Interface:
-![User interface](https://i.servimg.com/u/f11/19/35/07/37/mainwi11.png)
+![User interface](https://github.com/sierramike/ZM.phpBBParser/blob/master/Documents/MainWindow.png?raw=true)
 
 # Parameters:
 - Racine du site : the site root address (of the welcome page, don't modify unless the forum changes its URL !)
